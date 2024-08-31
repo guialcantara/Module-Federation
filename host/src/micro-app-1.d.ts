@@ -1,0 +1,1 @@
+declare module 'micro-app-1/MyComponent'
